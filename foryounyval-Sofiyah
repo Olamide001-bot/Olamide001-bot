@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>For Sofiyah ❤️</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: url('https://images.unsplash.com/photo-1518895949257-7621c3c786d7') no-repeat center center/cover;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Segoe Script', cursive;
+            text-align: center;
+            color: white;
+        }
+
+        .box {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 30px;
+            border-radius: 20px;
+            animation: fadeIn 3s ease-in-out;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+        }
+
+        p {
+            font-size: 1.2rem;
+        }
+
+        button {
+            margin-top: 20px;
+            padding: 15px 40px;
+            font-size: 1.5rem;
+            border: none;
+            border-radius: 50px;
+            background-color: red;
+            color: white;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            background-color: darkred;
+            transform: scale(1.1);
+        }
+
+        @keyframes fadeIn {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
+    </style>
+</head>
+
+<body>
+
+<audio autoplay loop>
+    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+</audio>
+
+<div class="box">
+    <h1>Sofiyah ❤️</h1>
+    <p>
+        From the moment our paths crossed, something in me felt different.  
+        You are soft like the morning light and beautiful like a blooming rose. 🌹  
+        Every thought of you makes my heart race in the sweetest way.  
+
+        I don’t want just a moment with you…  
+        I want memories, laughter, and something real.  
+
+        So today, I’m asking from the deepest part of my heart…
+    </p>
+
+    <h1>Will You Be My Val? 💌</h1>
+
+    <button onclick="alert('You just made me the happiest man alive ❤️')">
+        YES ❤️
+    </button>
+</div>
+
+</body>
+</html>
