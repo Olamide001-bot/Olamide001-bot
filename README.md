@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning The Basic Language of the Web
 - 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me +2348144402985
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He😎
+- ⚡ Fun fact: 
 
 <!---
 Olamide001-bot/Olamide001-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
